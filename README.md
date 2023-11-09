@@ -1,4 +1,4 @@
-# Supervised-and-kernelized-supervised-PCA
+# Supervised-and-kernelized-PCA
 
 # what is PCA?
 PCA, is a statistical procedure that allows you to summarize the information content in large data tables by means of a smaller set of “summary indices” that can be more easily visualized and analyzed.
